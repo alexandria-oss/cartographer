@@ -9,8 +9,8 @@ use _Cartographer_ for different use cases such as:
 - Map Cartography
 - Three-Dimensional video games
 - High Performance Computing _(HPC)_
-- Math (Linear algebra, graphs, geometric analysis, etc)
-- Physics (Quantum and classical Mechanics, particle physics, etc)
+- Math _(Linear algebra, graphs, geometric analysis, etc)_
+- Physics _(Quantum and classical Mechanics, particle physics, etc)_
 - Data Science
 - Machine Learning
 - Many more
