@@ -2,7 +2,7 @@
 _Cartographer_ is an open-source **Three-Dimensional Graph Database** _written in Go._
 
 ## Case studies
-Since _Cartographer_ can link many points within a single three-dimensional space natively, you **_may_** 
+Since _Cartographer_ can contain a _k-graph network_ within a single _three-dimensional space_ natively, you **_may_** 
 use _Cartographer_ for different use cases such as:
 
 - Geolocation
