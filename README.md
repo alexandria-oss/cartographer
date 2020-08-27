@@ -1,2 +1,2 @@
 # Cartographer
-Cartographer is a open-source library for 2-Dimensional graph modeling written in Go
+Cartographer is a open-source library for 3-Dimensional map modeling written in Go
